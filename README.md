@@ -47,7 +47,5 @@ Features of EMS:
 - Automatic logout on token expiration
 - Show warning popup on no Internet Connection
 - Pointer events get's disabled on an offline connection
- 
-[https://ems-in.herokuapp.com](https://ems-in.herokuapp.com)
-
+  
  
